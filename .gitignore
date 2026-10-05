@@ -1,0 +1,17 @@
+# LaTeX / latexmk build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.listing
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdv
+
+# OS
+.DS_Store
+.latexmkrc
